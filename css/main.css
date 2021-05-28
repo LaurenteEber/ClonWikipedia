@@ -123,6 +123,31 @@ a:hover {
     color: #222;
 }
 
+main .main-input {
+    width: 461px;
+    height: 44px;
+    margin: 0 auto;
+}
+main .main-input-container {
+    width: auto;
+    height: 44px;
+    border: 1px solid #82878b;
+    align-items: center;
+    margin: 0;
+    list-style: none;
+    display: flex;
+}
 
+main .main-input input {
+    width: 317.2px;
+    height: 40px;
+    margin: 0;
+    border: none;
+    margin-right: 1px;
+    outline: none;
+}
 
+a img {
+    margin-top: 6px;
+}
 
